@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Self-taught iOS developer.</h3>
 
-
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClearCut3000&theme=solarized_dark)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClearCut3000&theme=solarized_dark)
@@ -19,3 +18,4 @@
 
 
 
+<h6 align="center">I'll probably start coding for food soon...</h6>
