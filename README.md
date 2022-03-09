@@ -9,11 +9,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ClearCut3000&theme=solarized_dark)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ClearCut3000&theme=onedark&margin-w=15&row=1)](https://github.com/ClearCut3000/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ClearCut3000&theme=onedark&margin-w=15&row=1)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ClearCut3000&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ClearCut3000&theme=dark)
 
-[![Nikolay's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ClearCut3000&theme=dark)](https://github.com/ClearCut3000/leetcode-stats)
+![Nikolay's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ClearCut3000&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=ClearCut3000)
 
