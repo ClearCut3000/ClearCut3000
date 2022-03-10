@@ -5,7 +5,7 @@
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClearCut3000&theme=github_dark)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClearCut3000&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ClearCut3000&theme=github_dark)
+![Top by commit](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClearCut3000&theme=github_dark)
 
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ClearCut3000&theme=onedark&margin-w=15&row=1)
