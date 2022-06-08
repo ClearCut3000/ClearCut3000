@@ -16,6 +16,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ClearCut3000)
 
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GoFkYrSf)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitin.nikolay.v@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=9&color=1874F7&lines=Probably+start+coding+for+food+soon...)](https://git.io/typing-svg)
