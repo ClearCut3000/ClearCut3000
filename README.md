@@ -8,7 +8,7 @@
 ![Top by commit](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClearCut3000&theme=github_dark)
 
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ClearCut3000&theme=onedark&margin-w=15&row=1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ClearCut3000&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=18&row=1)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ClearCut3000&theme=dark)
 
